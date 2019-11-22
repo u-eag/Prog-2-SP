@@ -1,0 +1,6 @@
+D:\u-eag\20191121-SP - alumno\Entidades\bin\Debug\Entidades.dll
+D:\u-eag\20191121-SP - alumno\Entidades\bin\Debug\Entidades.pdb
+D:\u-eag\20191121-SP - alumno\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\u-eag\20191121-SP - alumno\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\u-eag\20191121-SP - alumno\Entidades\obj\Debug\Entidades.dll
+D:\u-eag\20191121-SP - alumno\Entidades\obj\Debug\Entidades.pdb

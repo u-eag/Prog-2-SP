@@ -1,0 +1,15 @@
+D:\u-eag\20191121-SP - alumno\20191121-SP\bin\Debug\20191121-SP.exe.config
+D:\u-eag\20191121-SP - alumno\20191121-SP\bin\Debug\20191121-SP.exe
+D:\u-eag\20191121-SP - alumno\20191121-SP\bin\Debug\20191121-SP.pdb
+D:\u-eag\20191121-SP - alumno\20191121-SP\bin\Debug\Archivos.dll
+D:\u-eag\20191121-SP - alumno\20191121-SP\bin\Debug\Entidades.dll
+D:\u-eag\20191121-SP - alumno\20191121-SP\bin\Debug\Archivos.pdb
+D:\u-eag\20191121-SP - alumno\20191121-SP\bin\Debug\Entidades.pdb
+D:\u-eag\20191121-SP - alumno\20191121-SP\obj\Debug\Consola.csprojAssemblyReference.cache
+D:\u-eag\20191121-SP - alumno\20191121-SP\obj\Debug\_20191121_SP.FrmSistemaSolar.resources
+D:\u-eag\20191121-SP - alumno\20191121-SP\obj\Debug\_20191121_SP.Properties.Resources.resources
+D:\u-eag\20191121-SP - alumno\20191121-SP\obj\Debug\Consola.csproj.GenerateResource.cache
+D:\u-eag\20191121-SP - alumno\20191121-SP\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+D:\u-eag\20191121-SP - alumno\20191121-SP\obj\Debug\Consola.csproj.CopyComplete
+D:\u-eag\20191121-SP - alumno\20191121-SP\obj\Debug\20191121-SP.exe
+D:\u-eag\20191121-SP - alumno\20191121-SP\obj\Debug\20191121-SP.pdb

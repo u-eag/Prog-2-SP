@@ -1,0 +1,17 @@
+D:\u-eag\20191121-SP - alumno\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\u-eag\20191121-SP - alumno\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\u-eag\20191121-SP - alumno\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\u-eag\20191121-SP - alumno\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\u-eag\20191121-SP - alumno\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\u-eag\20191121-SP - alumno\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\u-eag\20191121-SP - alumno\TestUnitarios\bin\Debug\TestUnitarios.dll
+D:\u-eag\20191121-SP - alumno\TestUnitarios\bin\Debug\TestUnitarios.pdb
+D:\u-eag\20191121-SP - alumno\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\u-eag\20191121-SP - alumno\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\u-eag\20191121-SP - alumno\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\u-eag\20191121-SP - alumno\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\u-eag\20191121-SP - alumno\TestUnitarios\obj\Debug\TestUnitarios.csprojAssemblyReference.cache
+D:\u-eag\20191121-SP - alumno\TestUnitarios\obj\Debug\TestUnitarios.csproj.CoreCompileInputs.cache
+D:\u-eag\20191121-SP - alumno\TestUnitarios\obj\Debug\TestUnitarios.csproj.CopyComplete
+D:\u-eag\20191121-SP - alumno\TestUnitarios\obj\Debug\TestUnitarios.dll
+D:\u-eag\20191121-SP - alumno\TestUnitarios\obj\Debug\TestUnitarios.pdb
